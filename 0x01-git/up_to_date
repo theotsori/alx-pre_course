@@ -7,3 +7,4 @@ Commands used for git
 6. git checkout -b branch
 7. git --set-upstream origin branch
 8. git branch
+9. git pull
