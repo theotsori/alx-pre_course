@@ -1,0 +1,9 @@
+Commands used for git
+1. git add .
+2. git commit -m 'your comment'
+3. git push
+4. git checkout branch
+5. git status
+6. git checkout -b branch
+7. git --set-upstream origin branch
+8. git branch
